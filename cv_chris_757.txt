@@ -1,0 +1,131 @@
+<!-- cv_chris_757 -->
+
+<!DOCTYPE html>
+<html lang=fr>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <link rel="stylesheet" href="cv_chris_757.css" >
+      <title>cv de Chris 757 </title>
+   </head>
+   <body>
+   <div id="page">
+
+      <aside>
+         <p><img src="communications0bis.jpg" alt="belle-photo" Title="Réseaux"/></p>
+         <h1><Strong>Christophe DUMORTIER</Strong></h1>
+         <p><h2 style="background-color: blue; color: rgb(179,67,71); width: 70%; margin-left: 5%; margin-right: 5%; margin-bottom: 20%; padding: 3px; opacity: 0.65; border-radius: 2px"><Strong>Technicien systèmes et réseaux</Strong></h2></p>
+         <div class="divers">
+         <h2 style="color: rgba(206,39,136,0.75); font-weight: bold"><Strong>Divers</Strong></h2>
+         <ul>
+         <li>Je dispose d'une voiture et du permis B</li><br />
+         <li>J'ai de bonnes bases en Anglais et également un peu en Allemand ..</li><br />
+         <li>J'ai pratiqué le Krav-Maga et la Boxe Française</li><br />
+         <li>Piano, guitare</li></ul><br />
+         </div>
+      </aside>
+
+      <main>
+         <p><div class="experiences">
+         <h2><em>Mes expériences</em></h2>
+         <h3><Strong>En Informatique</Strong></h3>
+         <li><em>Du 12 nov 18 au 14 août 19 :</em></li>
+         <br />Technicien de maintenance informatique, et de déploiement, chez ECONOCOM-OSIATIS – pour notre client EDF à Cattenom (la centrale de production (CNPE))
+         <br />Migration de postes utilisateurs, déploiement du système d’exploitation Windows Seven pour les utilisateurs, préparation et mise en place des nouveaux postes avec récupération des données utilisateurs.
+         <br /><br /><li><em>De Juillet 2017 à Août 2018 :</em></li>
+         <br />Technicien systèmes et réseaux chez INTM (Ingedus New Technology Managment) pour notre client EDF à Maxéville
+         <br />Maintenance de la connectivité Wifi pour l'ensemble du parc informatique EDF de France.
+         <br /><br /><li><em>Eté 2016 : Stage chez ATOS :</em></li>
+         <br />Déploiements de systèmes d'exploitations sur sites, et travail de recherches sur les nouveautés du Serveur Windows 2016.
+         </p><br />
+
+         <p>
+         <h3><em>En Comptabilité</em></h3>
+         <ul><em>De 2005 à 2008 : Aide-comptable / Agent-administratif pour diverses sociétés :</em><br />
+         <br /><li>URSSAF de Moselle</li>
+         <li>Les Courriers Mosellans (groupe KEOLIS)</li>
+         <li>PLUS (Poids Lourds Utilitaires Services, groupe TPA)</li>
+         <li>Société Colas</li>
+         <li>CFF Reycling ESKA</li>
+         <li>Sté Générale des Eaux (groupe VEOLIA)</li>
+         <li>Ajilon It Consulting (agent testeur fonctionnalités Sage ligne 1000)</li></ul><br /><br />
+         <ul><em>En 2004 : stages d'aide-comptable :</em><br /><br />
+         <li>Géodis BM Sotrameuse</li>
+         <li>Direction de la Solidarité (Conseil Général de la Moselle - Sce du Budget de la Gestion Comptable et de la Statistique)</li>
+         <li>DNS Finances (comptabilité de sociétés d'ambulances)</li></ul></p><br />
+
+         <p>
+         <h3><em>En peinture</em></h3><br />
+         <ul><em>De 2009 à 2015 : Peintre en bâtiment pour diverses sociétés :</em><br /><br />
+         <li>Sté de peintures Yvesbraun au Luxembourg</li>
+         <li>Sté de peintures Poinsignon</li>
+         <li>Sté JD Travaux</li>
+         <li>Sté Peintures Réunies</li>
+         <li>Mise en peinture au Garage Renult</li>
+         <li>Sté Peintures Réunies (nouveaux logements - cour des Capucins)</li>
+         <li>Sté Demathieu et Bard</li>
+         <li>Et autres courtes missions diverses</li></ul><br />
+         <ul><em>De 1998 à 2000 :</em><br /><br />
+         <li>Apprentissage du métier de Peintre en bâtiment (Peintre Vitrier Décorateur) au sein des Ateliers Thierry Knab à Strasbourg</li></ul></p><br />
+
+         <p>
+         <h3><em>En Courrier, Transport et Logistique</em></h3><br />
+         <ul><em>En 2014, de 2009 à 2011, en 2008, et en 2002 :</em><br /><br />
+         <li>Agent de quai chez Schenker-Joyau</li>
+         <li>Agent de quai chez GLS</li>
+         <li>Chauffeur-livreur pour la Société BAILLY Colis</li>
+         <li>Agent de quai chez Mondial Relay</li>
+         <li>Agent de Tri aux Etablissements Postaux</li>
+         <li>Agent de Tri chez Chronopost</li>
+         <li>Agent du Service Courrier au siège du Crédit Agricole à Strasbourg</li></ul></p><br />
+
+         <p>
+         <h3><em>En Montage, Production et Manutention</em></h3><br />
+         <ul><em>En 2009, de 2006 à 2009, en 2002, et en 2001 :</em><br /><br />
+         <li>Chez IKEA</li>
+         <li>Aux Galeries Lafayette</li>
+         <li>Chez Brico Dépôt</li>
+         <li>Avec Manucère</li>
+         <li>Chez Est Imprimerie</li>
+         <li>A l'usine, chez BEHR LORRAINE, à Hambach</li>
+         <li>A l'usine, chez Dynamit Nobel (pour Smart), à Hambach</li></ul></p><br />
+
+         <p><div class="competences">
+         <h2><em>Mes compétences - en Informatique</em></h2><br />
+         <ul>
+         <li>Exploiter et administrer les réseaux et systèmes informatiques, ainsi que les postes de travail Serveur et Clients</li>
+         <li>Déploiement – migration de postes utilisateurs (avec pour finalité, un nouveau système d’exploitation pour l’utilisateur) ; et blanchiment de postes utilisateurs</li>
+         <li>Traitements de tickets d'incidents liés notamment à des problèmes de connectivité, et traitement de demandes (mise en place physique de postes utilisateurs)</li>
+         <li>Virtualisation avec Hyper-V</li>
+         <li>Création de pages Web (utilisation des langages HTML5 et CSS3)</li>
+         <li>Installation-configuration et utilisation du Serveur de déploiement WDS avec MDT avec captures-réalisations de Masters de références pour déploiements de nouveaux systèmes d'exploitations</li>
+         <li>Mises en place de VLANS</li>
+         <li>Installation-configuration et utilisation de l'outil GLPI</li>
+         <li>Utilisation du langage MySQL (Bases de données SGBD)</li>
+         <li>Installation des rôles de Serveur : ADDS, DNS, DHCP, WDS</li>
+         <li>Paramétrer-sécuriser le parc informatique (adressage réseau, Pare-feu, Antivirus)</li>
+         <li>Résolution de problèmes de mises à jour : de pilotes, d'antivirus, et problèmes Software Update</li>
+         <li>Désactivation de mises à jours automatiques de Software Update sur Windows 10, par Stratégie (pour empêcher certains problèmes liés aux mises à jours automatiques)</li>
+         <li>Logiciels bureautiques : Excel (23ème au concours national de 1er degré, et réalisation de tableaux dynamiques)</li>
+         <li>Logiciels Word, Powerpoint, et Access</li></ul></p><br />
+
+         <p><div class="formations">
+         <h2><em>Mes formations et diplômes</em></h2><br />
+         <h3><em>En informatique :</em></h3><br />
+         <ul>
+         Formation TSGERI à l'AFPA de Pompey (Technicien Supérieur Gestionnaire Exploitant en Ressources Informatiques)<br /><br />
+         <li>2017 : Diplôme TSGERI</li>
+         <li>2016 : Cisco CCNA1V5 (routage et commutation : intiation aux réseaux)</li></ul></p><br />
+
+         <p>
+         <ul>
+         Formation de Comptabilité à Metz :<br /><br />
+         <li>2005 : Baccalauréat professionnel de comptabilité</li>
+         <li>2005 : BEP des métiers du secrétariat</li>
+         <li>2004 : BEP des métiers de la comptabilité</li></ul></p>
+         <p><ul>
+         Autres formations :<br /><br />
+         <li>2000 : CAP de Peintre Vitrier Décorateur</li>
+         <li>Autre diplôme : AFPS (Attestation de Formation aux Premiers Secours)</li></ul></p><br />
+         </main>
+   </div>
+   </body>

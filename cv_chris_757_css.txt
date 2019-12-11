@@ -1,0 +1,133 @@
+/* cv_chris_757.css */ 
+
+@font-face {
+    font-family: 'amblebold';
+    src: url(fonts1/'Amble-Bold-webfont.eot');
+    src: url(fonts1/'Amble-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url(fonts1/'Amble-Bold-webfont.woff2') format('woff2'),
+         url(fonts1/'Amble-Bold-webfont.woff') format('woff'),
+         url(fonts1/'Amble-Bold-webfont.ttf') format('truetype'),
+         url(fonts1/'Amble-Bold-webfont.svg#amblebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ---------------------------------- */
+
+html, body {
+   display: flex;
+   width: 100%;
+   height: 100%;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+   background-image: url(pastel1.jpg); /* pastel1.jpg */
+   background-repeat: scroll;
+   background-size: cover;
+   font-family: 'amblebold'; "Times New Roman"; Arial; sans-serif;
+}
+
+#page {
+   display: flex;
+   width: 100%;
+   height: 100%;
+   padding: 0;
+   margin: 0; 
+}
+
+/* ---------------------------------- */
+
+body + #page + aside {
+   display: flex;
+   flex-direction: column;
+   width: 15%;
+   height: 100%;
+   margin: 0;
+   margin-bottom: 0;
+   list-style-type: circle;
+}
+
+body + #page + main {
+   display: flex;
+   flex-direction: row;
+   width: 75%;
+   height: 100%;
+   margin: 0;
+   list-style-type: circle;
+}
+
+/* ---------------------------------- */
+
+h1 {
+   text-shadow: 3px 3px 3px blue;
+}
+
+h2 {
+   color: rgb(236,39,106);
+   font-weight: bold;
+}
+
+h3 {
+   color: rgb(206,39,136);    
+}
+
+Strong, em {
+   font-style: italic;
+}
+
+/* ---------------------------------- */
+
+#page aside img {
+   border: 4px #27ECE4;
+   box-shadow: 8px 8px 10px grey;
+   border-radius: 50%;
+   width: 125px;
+   height: 125px;
+   margin-left: 20%;
+   margin-top: 20%;
+   margin-bottom: 20%;
+   display: block; /* pour centrer la photo, que cela se comporte en type block */
+}
+
+#page aside h1, h2 {
+   padding-left: 5%;
+   padding-bottom: 5%;
+}
+
+.divers {
+   padding-left: 5%;
+   padding-right: 5%;
+   margin-top: 10%;
+   margin-bottom: 5%;
+}
+
+#page main h1, h2, h3 {
+   padding-left: 5%;
+   padding-bottom: 2%;
+}
+
+em {
+   padding-top: 30%;
+   padding-bottom: 5%;
+}
+
+ul {
+   padding-bottom: 5%;
+}
+
+p {
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.experiences, .competences, .formations {
+   width: 90%;
+   margin-left: 5px;
+   margin-top: 5%;
+   margin-bottom: 20%;
+   padding-left: 5px;
+}
+
